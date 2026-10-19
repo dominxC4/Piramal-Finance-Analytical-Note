@@ -12,4 +12,4 @@ An analysis of Piramal Finance's portfolio transformation, asset quality, retail
 Includes earnings call transcripts, CRISIL rating report, stock research report and supporting data sheet.
 
 **Disclaimer:** For educational and analytical purposes only. Not investment advice.
-**📄 [Read the Main Research Report](./Piramal Finance - Analytical Note (Q1 FY27).pdf)**
+[**Read the Full Research Report (PDF)**](./piramal-finance-q1-fy27.pdf)
